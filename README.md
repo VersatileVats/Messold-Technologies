@@ -1,5 +1,5 @@
 # Messold-Technologies
-Submissions for the Internship
+Submissions for the Problem Statement
 
 Live Link for challenge1: https://wheels4water.me/c1.html
 
